@@ -80,3 +80,4 @@ Feel free to fork, clone, and expand this psychological AI experiment!
 > **is not your data — but your identity.**
 
 temp1
+temp2
